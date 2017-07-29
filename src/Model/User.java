@@ -1,7 +1,7 @@
 package Model;
 
 import java.io.Serializable;
-import java.util.ArrayList;
+
 
 /**
  * Created by Игорь on 23.07.2017.
